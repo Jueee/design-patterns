@@ -1,0 +1,8 @@
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\Lexi.Properties.Resources.resources
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\bin\Debug\Lexi.exe
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\bin\Debug\Lexi.pdb
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\Lexi.exe
+D:\User\lufangtao\lufangtao\DesignPattern\Lexi\Lexi\obj\x86\Debug\Lexi.pdb

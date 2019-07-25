@@ -20,5 +20,7 @@
 8.	[怎样使用设计模式](ch01Introduction/1.8怎样使用设计模式.md)
 9.	[相关词汇表](ch01Introduction/1.9相关词汇表.md)
 
-ch02
+#### ch02.[实例研究：设计一个文档编辑器](ch02CaseStudy)
+
+#### ch03.[创建型模式](ch03CreationalPatterns)
 
