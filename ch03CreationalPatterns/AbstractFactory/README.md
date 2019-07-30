@@ -1,5 +1,7 @@
 ## 抽象工厂（Abstract Factory）
 
+[toc]
+
 ### 示例一：制作HTML文件
 
 将带有层次关系的链接集合制作成HTML文件：
