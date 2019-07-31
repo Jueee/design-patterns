@@ -1,6 +1,6 @@
 ## 抽象工厂（Abstract Factory）
 
-[toc]
+[TOC]
 
 ### 示例一：制作HTML文件
 
@@ -11,6 +11,10 @@
 - [配置零件工厂](src/main/java/com/jueee/example01/factory)
 - [测试程序](src/main/java/com/jueee/example01/ExampleMain.java)
 
+![1564555500699](assets/1564555500699.png)
+
+![1564555525817](assets/1564555525817.png)
+
 ### 示例二：生产一台计算机
 
 假设我们要生产一台计算机（广义的），一台计算机有一些共同的物件。小型计算机（以手机为例）需要有触控屏、微处理器和小型化的内存条。大型计算机（以PC机为例）需要有显示屏、多核处理器和内存条。计算机的各个部件存在着相互依赖关系。
@@ -20,4 +24,8 @@
 - [电脑部件](src/main/java/com/jueee/example02/computer)
 - [电子产品生产工厂](src/main/java/com/jueee/example02/factory)
 - [测试程序](src/main/java/com/jueee/example02/ExampleMain.java)
+
+![1564555583691](assets/1564555583691.png)
+
+![1564555614102](assets/1564555614102.png)
 
