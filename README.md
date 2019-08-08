@@ -24,3 +24,23 @@
 
 #### ch03.[创建型模式](ch03CreationalPatterns)
 
+创建型模式抽象了实例化过程。它们帮助一个系统独立于如何创建、组合和表示它的那
+些对象。
+
+一个类创建型模式使用继承改变被实例化的类，而一个对象创建型模式将实例化委托给另一个对象。
+
+1.	[抽象工厂（AbstractFactory）](ch03CreationalPatterns/3.1抽象工厂（AbstractFactory）.md)
+2.	[生成器（Builder）](ch03CreationalPatterns/3.2生成器（Builder）.md)
+3.	[工厂方法（FactoryMethod）](ch03CreationalPatterns/3.3工厂方法（FactoryMethod）.md)
+4.	[原型模式（Prototype）](ch03CreationalPatterns/3.4原型模式（Prototype）.md)
+5.	[单例模式（Singleton）](ch03CreationalPatterns/3.5单例模式（Singleton）.md)
+6.	[创建型模式的讨论](ch03CreationalPatterns/3.6创建型模式的讨论.md)
+
+#### ch04.[结构型模式](ch04StructuralPatterns)
+
+结构型模式涉及到如何组合类和对象以获得更大的结构。
+
+结构型对象模式不是对接口和实现进行组合，而是描述了如何对一些对象进行组合，从而实现新功能的一些方法。
+
+因为可以在运行时刻改变对象组合关系，所以对象组合方式具有更大的灵活性，而这种机制用静态类组合是不可能实现的。
+
