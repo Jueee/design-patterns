@@ -34,7 +34,7 @@
 3.	[工厂方法（FactoryMethod）](ch03CreationalPatterns/3.3工厂方法（FactoryMethod）.md)
 4.	[原型模式（Prototype）](ch03CreationalPatterns/3.4原型模式（Prototype）.md)
 5.	[单例模式（Singleton）](ch03CreationalPatterns/3.5单例模式（Singleton）.md)
-6.	[创建型模式的讨论](ch03CreationalPatterns/3.6创建型模式的讨论.md)
+6.	[创建型模式的讨论](ch03CreationalPatterns/3.X创建型模式的讨论.md)
 
 #### ch04.[结构型模式](ch04StructuralPatterns)
 
@@ -43,4 +43,21 @@
 结构型对象模式不是对接口和实现进行组合，而是描述了如何对一些对象进行组合，从而实现新功能的一些方法。
 
 因为可以在运行时刻改变对象组合关系，所以对象组合方式具有更大的灵活性，而这种机制用静态类组合是不可能实现的。
+
+1.	[适配器模式（Adapter）](ch04StructuralPatterns/4.1适配器模式（Adapter）.md)
+2.	[桥接模式（Bridge）](ch04StructuralPatterns/4.2桥接模式（Bridge）.md)
+3.	[组合模式（Composite）](ch04StructuralPatterns/4.3组合模式（Composite）.md)
+4.	[装饰模式（Decorator）](ch04StructuralPatterns/4.4装饰模式（Decorator）.md)
+5.	[外观模式（Facade）](ch04StructuralPatterns/4.5外观模式（Facade）.md)
+6.	[享元模式（Flyweight）](ch04StructuralPatterns/4.6享元模式（Flyweight）.md)
+7.	[代理模式（Proxy）](ch04StructuralPatterns/4.7代理模式（Proxy）.md)
+8.	[结构型模式的讨论](ch04StructuralPatterns/4.X结构型模式的讨论.md)
+
+#### ch05.[行为模式](ch05BehavioralPatterns)
+
+行为模式涉及到算法和对象间职责的分配。
+
+行为模式不仅描述对象或类的模式，还描述它们之间的通信模式。
+
+这些模式刻划了在运行时难以跟踪的复杂的控制流。它们将你的注意力从控制流转移到对象间的联系方式上来。
 
