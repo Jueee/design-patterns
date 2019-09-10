@@ -61,3 +61,16 @@
 
 这些模式刻划了在运行时难以跟踪的复杂的控制流。它们将你的注意力从控制流转移到对象间的联系方式上来。
 
+1.	[责任链模式（ChainOfResponsibility）](ch05BehavioralPatterns/5.01责任链模式（ChainOfResponsibility）.md)
+2.	[命令模式（Command）](ch05BehavioralPatterns/5.02命令模式（Command）.md)
+3.	[解释器模式（Interpreter）](ch05BehavioralPatterns/5.03解释器模式（Interpreter）.md)
+4.	[迭代器模式（Iterator）](ch05BehavioralPatterns/5.04迭代器模式（Iterator）.md)
+5.	[中介者模式（Mediator）](ch05BehavioralPatterns/5.05中介者模式（Mediator）.md)
+6.	[备忘录模式（Memento）](ch05BehavioralPatterns/5.06备忘录模式（Memento）.md)
+7.	[观察者模式（Observer）](ch05BehavioralPatterns/5.07观察者模式（Observer）.md)
+8.	[状态模式（State）](ch05BehavioralPatterns/5.08状态模式（State）.md)
+9.	[策略模式（Strategy）](ch05BehavioralPatterns/5.09策略模式（Strategy）.md)
+10.	[模板方法模式（TemplateMethod）](ch05BehavioralPatterns/5.10模板方法模式（TemplateMethod）.md)
+11.	[访问者模式（Visitor）](ch05BehavioralPatterns/5.11访问者模式（Visitor）.md)
+12.	[行为模式的讨论](ch05BehavioralPatterns/5.XX行为模式的讨论.md)
+
